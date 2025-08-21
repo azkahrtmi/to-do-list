@@ -39,4 +39,5 @@ This project supports **persistent storage** using the browser's **Local Storage
    git clone https://github.com/azkahrtmi/to-do-list.git
    ```
 
-![alt text](image.png)
+<img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/8285c682-42f1-44a6-9062-72864e36115a" />
+
